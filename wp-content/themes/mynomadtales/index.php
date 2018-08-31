@@ -8,7 +8,11 @@
 
 <? get_header(); // подключаем header.php ?> 
 <section>
-<p>Under construction...</p>	
+
+<?php get_template_part('slider');  ?>
+
+
+<?php //echo do_shortcode('[metaslider id="5"]'); ?>	
     
 </section>
 <?php get_footer(); // подключаем footer.php ?>
