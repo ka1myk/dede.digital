@@ -1,0 +1,3 @@
+DB name: mnt_db
+DB user: mnt_db
+DB pass: V0b0P4b2
